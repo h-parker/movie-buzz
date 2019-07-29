@@ -1,3 +1,4 @@
-v = 17
-w = 22
-x = w - v
+#functions
+
+def create_fuction():
+    return 'hello'
