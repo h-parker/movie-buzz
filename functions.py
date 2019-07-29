@@ -1,12 +1,4 @@
-hannah
-hannah
-hannah
-hannah
-hannah
-hannah
-hannah
-hannah
-megan
-hannah
-hannah
-hannah
+#functions
+
+def create_fuction():
+    return 'hello'
