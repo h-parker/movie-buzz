@@ -67,4 +67,3 @@ with open('no_tv_keywords.csv') as f:
     sys.stdout.flush()
         
 g.close()
-
