@@ -26,7 +26,7 @@ We defined a 'good' movie to be a movie that has a Rotten Tomatoes Critic rating
 
 
 ### Are budget and revenue correlated?
-The relationship seemed somewhat positively correlated, but there are too many confounding variables to say with any confidence that an increased budget will lead to an increase in revenue. We recommend sticking with the range indicated above. 
+The relationship seemed somewhat positively correlated, with a correlation coefficient of 0.62, but there are too many confounding variables to say with any confidence that an increased budget will lead to an increase in revenue. We recommend sticking with the range indicated above. 
 
 <img src=https://github.com/h-parker/movie-buzz/blob/master/wise_budget.png alt="budget vs revenue scatter plot" width="450"/>
 
