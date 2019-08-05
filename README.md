@@ -20,7 +20,7 @@ Group Members: Brendan Gilroy, Kristina Barounis, and Hannah Parker
 ## Findings
 
 ### What can you expect to spend on a _good_ movie?
-We defined a 'good' movie to be a movie that has a Rotten Tomatoes Critic rating of over 75%. When we plotted this, calculated a five number summary, and found the mean, we saw that [SUMMARY GOES HERE]
+We defined a 'good' movie to be a movie that has a Rotten Tomatoes Critic rating of over 75%. When we plotted this, calculated a five number summary, and found the mean, we saw that [SUMMARY GOES HERE] HELLO
 
 ![budget](https://github.com/h-parker/movie-buzz/blob/master/wise_budget.png)
 
