@@ -22,7 +22,7 @@ Group Members: Brendan Gilroy, Kristina Barounis, and Hannah Parker
 ### What can you expect to spend on a _good_ movie?
 We defined a 'good' movie to be a movie that has a Rotten Tomatoes Critic rating of over 75%. When we plotted the budgets of movies fitting this description, calculated a five number summary, and found the mean, we saw that the middle 50% of budgets fell between $20 and $100 million, with a median of $38 million and an average of $69 million. This leads us to believe that Microsoft should expect to invest around $38 million, perhaps more, on their movies.
 
-![budget](https://github.com/h-parker/movie-buzz/blob/master/wise_budget.png)
+![budget](https://github.com/h-parker/movie-buzz/blob/master/wise_budget.png =200)
 
 
 ### Are budget and revenue correlated?
