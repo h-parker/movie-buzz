@@ -40,7 +40,7 @@ The movie genres with the highest ratings on both IMDB and Rotten Tomatoes were 
 <img src=https://github.com/h-parker/movie-buzz/blob/master/history_ratings.png alt="history ratings distribution" width="450"/>
 <img src=https://github.com/h-parker/movie-buzz/blob/master/drama_ratings.png alt="drama ratings distribution" width="450"/>
 <img src=https://github.com/h-parker/movie-buzz/blob/master/comedy_ratings.png alt="comedy ratings distribution" width="450"/>
-<img src=https://github.com/h-parker/movie-buzz/blob/master/awards_by_genre/.png alt="awards across genre bar chart" width="450"/>
+<img src=https://github.com/h-parker/movie-buzz/blob/master/awards_by_genre.png alt="awards across genre bar chart" width="450"/>
 
 ### Which actors will generate the most revenue?
 <img src=https://github.com/h-parker/movie-buzz/blob/master/profitability_by_actor.png alt="actor profitability table" width="450"/>
