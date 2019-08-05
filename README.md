@@ -20,18 +20,19 @@ Group Members: Brendan Gilroy, Kristina Barounis, and Hannah Parker
 ## Findings
 
 ### What can you expect to spend on a _good_ movie?
-We defined a 'good' movie to be a movie that has a Rotten Tomatoes Critic rating of over 75%. When we plotted this, calculated a five number summary, and found the mean, we saw that [SUMMARY GOES HERE] HELLO
+We defined a 'good' movie to be a movie that has a Rotten Tomatoes Critic rating of over 75%. When we plotted the budgets of movies fitting this description, calculated a five number summary, and found the mean, we saw that the middle 50% of budgets fell between $20 and $100 million, with a median of $38 million and an average of $69 million. This leads us to believe that Microsoft should expect to invest around $38 million, perhaps more, on their movies.
 
 ![budget](https://github.com/h-parker/movie-buzz/blob/master/wise_budget.png)
 
 
 ### Are budget and revenue correlated?
+The relationship seemed somewhat positively correlated, but there are too many confounding variables to say with any confidence that an increased budget will lead to an increase in revenue. We recommend sticking with the range indicated above. 
 ![budget](https://github.com/h-parker/movie-buzz/blob/master/budget_bo_scatter.png)
 
 
 
 ### Which movie genres are crowd favorites? 
------> we realize that drama has more movies than other categories but [insert defense or contrition here], and in the future, we would like to [               ]
+The movie genres with the highest ratings on both IMDB and Rotten Tomatoes were 'documentary' and 'history'. However, upon looking at the distributions of ratings (pictured below), it became clear that perhaps there were fewer movies falling in these categories. We surmised that these movies might tend to get reviewed by fans of these somewhat niche genres, and therefore would tend to get higher ratings from these fans, whereas movies from more popular genres, like drama and comedy (distributions of votes also pictured below), get reviewed by the more general movie audience that may be more stingy with their ratings. Therefore, we looked at what could be considered a more objective voting board -- wins and nominations for awards. We found that drama had secured far and away more wins and nominations than any other genre, however, we did not control for the fact that it also has more movies. As a result, in the future we would like to create a weighted score based on wins, nominations, _and_ number of movies in the genre that would help level the playing field.
 
 ![crowd favorites](https://github.com/h-parker/movie-buzz/blob/master/ratings_by_genre.png)
 ![doc ratings](https://github.com/h-parker/movie-buzz/blob/master/documentary_ratings.png)
@@ -45,4 +46,4 @@ We defined a 'good' movie to be a movie that has a Rotten Tomatoes Critic rating
 
 
 ## Final Recommendations
-Based on our findings, we would recommend that Microsoft look to spend somewhere between $20MM and $100MM, most likely around $69MM based on our budget data. Furthermore, it looks as though documentaries consistently get high ratings among the documentary fanbase, and that it may be that dramas recieve many awards and nominations, but more research needs to be done with respect to the effect of the sheer quantity of drama movies and whether that contributed to the overwhelming number of nominations and wins in that genre. Finally, based on the revenue that James McAvoy has been associated with in the past, he may be a good actor to hire, but again, this may just be correlation, _not_ causation. 
+Based on our findings, we would recommend that Microsoft look to spend somewhere between $20MM and $100MM, most likely around $38MM based on our budget data. Furthermore, it looks as though documentaries consistently get high ratings among the documentary fanbase, and that it may be that dramas recieve many awards and nominations, but more research needs to be done with respect to the effect of the sheer quantity of drama movies and whether that contributed to the overwhelming number of nominations and wins in that genre. Finally, based on the revenue that James McAvoy has been associated with in the past, he may be a good actor to hire, but again, this may just be correlation, _not_ causation. 
