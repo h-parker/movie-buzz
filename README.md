@@ -42,7 +42,8 @@ The movie genres with the highest ratings on both IMDB and Rotten Tomatoes were 
 <img src=https://github.com/h-parker/movie-buzz/blob/master/comedy_ratings.png alt="comedy ratings distribution" width="450"/>
 <img src=https://github.com/h-parker/movie-buzz/blob/master/awards_by_genre.png alt="awards across genre bar chart" width="450"/>
 
-### Which actors will generate the most revenue?
+### Which actors have generated the most revenue?
+The profitability scores below were calculated by dividing the revenue of each movie the actor starred in by the budget and averaging these together. Only actors that had been in at least 2 movies were taken into account, so as to limit the effect of one off huge successes. Interpretation of these values is limited, though, as perhaps these actors happened to be hired because the studio knew that the movie would be profitable, so they could afford to hire big actors. 
 <img src=https://github.com/h-parker/movie-buzz/blob/master/profitability_by_actor.png alt="actor profitability table" width="450"/>
 
 
